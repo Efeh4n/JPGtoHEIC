@@ -1,0 +1,5 @@
+# Core image processing library
+pillow>=11.1.0
+
+# HEIC/HEIF support for Pillow
+pillow-heif>=1.0.0
